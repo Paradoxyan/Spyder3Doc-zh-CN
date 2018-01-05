@@ -1,2 +1,3 @@
-# Spyder3Doc-zh-CN
-Spyder3 Documentation translated in Chinese
+# Spyder3 中文文档
+
+原文档地址：http://pythonhosted.org/spyder/
